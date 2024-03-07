@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleGuardConsole", "SampleGuardConsole\SampleGuardConsole.csproj", "{5ECE28F5-F5AD-467D-8342-CC792536A2D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5ECE28F5-F5AD-467D-8342-CC792536A2D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5ECE28F5-F5AD-467D-8342-CC792536A2D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5ECE28F5-F5AD-467D-8342-CC792536A2D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5ECE28F5-F5AD-467D-8342-CC792536A2D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EBD29F4E-4F04-4F4D-A674-B9D801BDF269}
+	EndGlobalSection
+EndGlobal
